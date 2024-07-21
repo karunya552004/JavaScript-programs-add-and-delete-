@@ -1,0 +1,52 @@
+
+body {
+font-family: sans-serif;
+}
+
+#newTask {
+width: 250px;
+height: 30px;
+padding: 5px;
+margin-left: 20px;
+border-radius: 5px;
+border:2px solid black;
+}
+
+#taskList {
+margin-left: 80px;
+padding: 0;
+list-style:none;
+}
+
+#taskList li {
+padding: 10px;
+border-style: none;
+}
+button{
+background-color: brown;
+color: black;
+border-radius: 5px;
+width: 100px;
+height: 30px;
+border-style: none;
+}
+.container{
+margin-left: 350px;
+margin-top: 100px;
+align-items: center;
+width: 500px;
+height: 500px;
+background-color:rgb(226, 88, 88);
+border-radius: 10px;
+box-shadow: 10px 10px 10px ;
+
+
+}
+.container h1{
+padding: 3px 5px;
+
+}
+body{
+    background: linear-gradient(to right,rgb(0, 208, 255) 0%,rgb(247, 245, 247) 100%);
+
+}
